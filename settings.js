@@ -11,13 +11,13 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "6282393734303"
-global.ownername = "🦄Dream RanzMania"
+global.ownername = "🦄Dream"
 global.ytname = "YT: ranzzstarrboy"
 global.socialm = "GitHub: pukimakk"
 global.location = "India, Mizoram, Aizawl"
 
 global.ownernumber = '6282393734303'  //creator number
-global.ownername = '🦄Dream RanzMania' //owner name
+global.ownername = '🦄Dream' //owner name
 global.botname = 'ᵇᵒᵗ' //name of the bot
 
 //sticker details
@@ -48,7 +48,7 @@ global.autoswview = false //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v1'
+global.typemenu = 'v2'
 
 //text bug
 global.xbugtex = {
